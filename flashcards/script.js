@@ -39,7 +39,7 @@ function playAudio() {
 
   var x = this.id;
 
-  var str22 = "../images/flash cards/flash cards/" + alphaImages[x];
+  var str22 = "../images/flash-cards/flash-cards/" + alphaImages[x];
 
   document.getElementById("image2222").src = str22;
 
